@@ -6,7 +6,7 @@
 
 <h3> 📫 Contact Me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/roni-harel-5892a8226/)](http://www.linkedin.com/in/roni-harel-5892a8226/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oria-zadok-71730b240/)]([http://www.linkedin.com/in/roni-harel-5892a8226/](https://www.linkedin.com/in/oria-zadok-71730b240/))
 [![Gmail Badge](https://img.shields.io/badge/-oriazadok@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oriazadok@gmail.com)](mailto:oriazadok@gmail.com)
 
 ### Languages and Tools:
