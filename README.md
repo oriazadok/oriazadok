@@ -30,6 +30,6 @@
 
 ---
 
-<img align="left" alt="RoniHarel100 Github Status" src="https://github-readme-stats.vercel.app/api?username=RoniHarel100&show_icons=true&theme=onedark">
+<img align="left" alt="oriazadok Github Status" src="https://github-readme-stats.vercel.app/api?username=oriazadok&show_icons=true&theme=onedark">
 
-<img align="left" alt="RoniHarel100 Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriazadok&layout=compact&theme=onedark">
+<img align="left" alt="oriazadok Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriazadok&layout=compact&theme=onedark">
