@@ -1,15 +1,31 @@
-### Hi there I'm Oria👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi there! 👋; i'm Oria Zadok;&center=true&size=30">
+  </a>
+</h1>
 
-- ✨ I'm Student 3nd year of CS & Math, Ariel University 
 
----
+<!-- ### Hi there I'm Oria👋 -->
+
+## ✨ I'm Student 3nd year of CS & Math, Ariel University 
+
 
 <h3> 📫 Contact Me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oria-zadok-71730b240/)](https://www.linkedin.com/in/oria-zadok-71730b240/)
 [![Gmail Badge](https://img.shields.io/badge/-oriazadok@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oriazadok@gmail.com)](mailto:oriazadok@gmail.com)
 
-### Languages and Tools:
+
+<!-- about me -->
+i'm a passionate developer who loves to create and innovate. i enjoy building applications that solve real-world problems and make a positive impact.
+
+- 🌱 currently learning and experimenting with game creation applications
+- 💡 always excited to explore new technologies and frameworks
+- 🎓 computer science third-year student at ariel university
+- ✨ love open source, collaborating, and learning from the community
+<br/><br/>
+
+### Languages and Tools:    
 <img align="left" alt= "Java" width="30px" src="https://i.ibb.co/64kLmDp/java.png" />
 <img align="left" alt= "C" width="30px" src="https://i.ibb.co/5M1TdDD/c.png" />
 <img align="left" alt= "C++" width="30px" src="https://i.ibb.co/jhv07kx/c.png" />
