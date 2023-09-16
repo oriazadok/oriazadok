@@ -1,12 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi there! 👋; i'm Oria Zadok;&center=true&size=30">
-  </a>
-</h1>
-
-
-
-<!-- ### Hi there I'm Oria👋 -->
+### Hi there I'm Oria👋
 
 ## ✨ I'm Student 3nd year of CS & Math, Ariel University 
 
