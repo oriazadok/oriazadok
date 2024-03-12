@@ -12,7 +12,7 @@
 <!-- about me -->
 i'm a passionate developer who loves to create and innovate. i enjoy building applications that solve real-world problems and make a positive impact.
 
-- 🌱 currently learning and experimenting with game creation applications
+- 🌱 currently learning and experimenting with creation applications
 - 💡 always excited to explore new technologies and frameworks
 - 🎓 computer science third-year student at ariel university
 - ✨ love open source, collaborating, and learning from the community
