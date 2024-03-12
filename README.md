@@ -38,6 +38,7 @@ i'm a passionate developer who loves to create and innovate. i enjoy building ap
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40" />
 <img align="left"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="Bash" alt="bash" width="40" height="40" />
 <br />
+<br />
 <img align="left" alt= "Intellij" width="30px" src="https://i.ibb.co/rMJzrfk/Intelli-JIDEA.png" />
 <img align="left" alt= "Pycharm" width="30px" src="https://i.ibb.co/SdBmZC2/pycharm.jpg" />
 <img align="left" alt= "Clion" width="30px" src="https://i.ibb.co/SNgnXRz/clion.png" />
