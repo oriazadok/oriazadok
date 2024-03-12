@@ -40,10 +40,10 @@ i'm a passionate developer who loves to create and innovate. i enjoy building ap
 <br />
 <br />
 <br />
-<img align="left" alt= "Intellij" style="vertical-align: middle;" width="40px" src="https://i.ibb.co/rMJzrfk/Intelli-JIDEA.png" />
-<img align="left" alt= "Pycharm" style="vertical-align: middle;"  width="40px" src="https://i.ibb.co/SdBmZC2/pycharm.jpg" />
-<img align="left" alt= "Clion" width="40px" src="https://i.ibb.co/SNgnXRz/clion.png" />
-<img align="left" alt= "Visual Studio" width="40px" src="https://i.ibb.co/n7vwtsc/vs.png" />
+<img align="left" alt= "Intellij" width="30px" height="30px" src="https://i.ibb.co/rMJzrfk/Intelli-JIDEA.png" />
+<img align="left" alt= "Pycharm" width="30px" height="30px" src="https://i.ibb.co/SdBmZC2/pycharm.jpg" />
+<img align="left" alt= "Clion" width="30px" height="30px" src="https://i.ibb.co/SNgnXRz/clion.png" />
+<img align="left" alt= "Visual Studio" width="30px" height="30px" src="https://i.ibb.co/n7vwtsc/vs.png" />
 
 <br />
 <br />
